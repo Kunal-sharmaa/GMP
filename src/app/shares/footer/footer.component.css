@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.footer{
+    position: absolute;
+    overflow: hidden;
+    top: 100%;
+   
+    background-color: #00b894;
+    padding: 10px 10px;
+    margin:auto;
+}
+i{
+    box-sizing: border-box;
+}
+
+
+h1{
+    color: aliceblue;
+}
