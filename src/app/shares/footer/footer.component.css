@@ -1,21 +1,11 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-.footer{
-    position: absolute;
+.my-footer{
+    position: sticky;
     overflow: hidden;
     top: 100%;
-   
-    background-color: #00b894;
-    padding: 10px 10px;
     margin:auto;
-}
-i{
-    box-sizing: border-box;
-}
-
-
-h1{
+    left:-3px;
     color: aliceblue;
+    border-radius:0.5rem;
+    background-image: linear-gradient(to right, #56ab2f ,  #a8e063);;
 }
+

@@ -1,0 +1,14 @@
+
+
+.container-fluid{
+    background-color: aliceblue;
+    margin: 1em 0px;
+    border-radius: 0.3rem;
+    box-shadow: rgba(0, 0, 0, 0.08) 0px 1px 8px;
+    padding: 16px;
+    border-radius: 4px;
+}
+.bordered {
+	border: 1px dashed black;
+	background-color: #eee;
+}

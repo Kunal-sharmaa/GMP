@@ -1,6 +1,5 @@
-:root{
-    --primary-color:#00b894;
-}
-body{
-    height: 100vh;
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color:a8e063;
 }

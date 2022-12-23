@@ -6,15 +6,11 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./navbar.component.css']
 })
 export class NavbarComponent implements OnInit {
-  title:string = "GMP";
-  courseName: string = "Angular";
-  changeNameWithThis(course:string){
-    this.courseName = course;
-  }
+  title = 'GMP';
+  public isCollapsed = false;
+  mainNavbar = true;
   constructor() { }
-  changeName() {
-    this.courseName = "typeScript";
-  }
+  
   
   ngOnInit(): void {
     
